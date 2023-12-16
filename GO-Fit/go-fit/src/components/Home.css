@@ -1,0 +1,28 @@
+.hero{
+    height: 650px;
+     background-image: url("https://watermark.lovepik.com/photo/20211123/large/lovepik-gym-picture_500868937.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-color: #000015; 
+  }
+  
+
+  @keyframes slideIn {
+    from {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .hero-title {
+    color: white;
+    font-weight: bold;
+    font-size: 6rem;
+    text-align: center;
+    animation: slideIn 1.5s ease-out; /* Adjust the duration and easing as needed */
+  }

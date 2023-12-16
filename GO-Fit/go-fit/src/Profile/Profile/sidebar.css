@@ -1,0 +1,45 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.sidebar {
+  height: 100vh;
+  width: 200px;
+  background-color: black;
+  padding-top: 20px;
+
+}
+
+.sidebar img {
+  margin-bottom: 10px;
+}
+
+/* .sidebar div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.content {
+  flex: 1;
+  padding: 20px;
+  height: 100vh;
+  /* overflow-y: auto; */
+}
+
+.btn-class,button{
+  margin-bottom: 6px;
+  color: black;
+ 
+}
+.btn{
+  background-color: white;
+  color: #282c34;
+  width: 100%;
+}

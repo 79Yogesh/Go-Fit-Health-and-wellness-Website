@@ -1,0 +1,28 @@
+
+textarea,input{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 5px;
+    
+}
+.contactus{
+    /* margin-top: 50px; */
+    background:linear-gradient(45deg, rgb(135, 134, 134), rgb(246, 172, 172), rgb(243, 243, 170));
+    border-radius: 20px;
+    border-color: rgb(5, 5, 5);
+    color: rgb(214, 30, 30);
+}
+
+#contactus{
+    /* margin-top: 50px; */
+    background-color: rgb(8, 8, 8);
+    border-radius: 20px;
+    border-color: rgb(242, 3, 3);
+    color: rgb(21, 19, 19);
+}
+
+b{
+    color:rgb(76, 4, 83);
+}

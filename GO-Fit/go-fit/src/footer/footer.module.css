@@ -1,0 +1,65 @@
+
+
+.greyBackground {
+  background-color: #8a8a8a; /* Use the desired shade of grey */
+}
+
+.container {
+  padding: 20px;
+  background-color: #f06a6a;
+}
+
+/* Info Styles */
+.info {
+  text-align: center;
+}
+
+.footer-content {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(224, 189, 189);
+}
+
+.footer-content h4 {
+  font-weight: bold;
+  color: #ddd;
+  background-color: #ccc;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.social-media img {
+  margin-right: 10px;
+}
+
+.get-updates input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+}
+
+.get-updates button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+
+.copy-right hr {
+  border-color: #fefcfc;
+}
+
+h3, b {
+  color: #fffdfd;
+}
+
+a{
+  color: rgb(120, 195, 249);
+}
